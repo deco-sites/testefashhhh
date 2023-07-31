@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/testefashhhh/": "./",
+
     "deco-sites/julho-2023/": "./",
 
     "deco-sites/fashion/": "./",
